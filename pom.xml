@@ -42,7 +42,7 @@
         <sonar.language>java</sonar.language>
 
         <bouncycastle.version>1.70</bouncycastle.version>
-        <commons-compress.version>1.24.0</commons-compress.version>
+        <commons-compress.version>1.26.1</commons-compress.version>
         <digidoc4j.version>5.2.0</digidoc4j.version>
         <guava.version>32.1.2-jre</guava.version>
         <ignite.version>2.15.0</ignite.version>
